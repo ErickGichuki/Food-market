@@ -1,0 +1,24 @@
+.Image{
+    display:grid;
+    gap: 18px;
+    width: 100%;
+    height: auto;
+    grid-template-columns: repeat(auto-fit);
+    
+}
+.container{
+    padding: 20px;
+    margin: 0 auto;
+
+}
+h1{
+    text-align: center;
+}
+.moz{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.welcome{
+    text-align: center;
+}
